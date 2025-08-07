@@ -63,7 +63,7 @@
 
 <p align="center">
 <a href="https://github.com/XusanDev07">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XusanDev07&theme=radical" alt="Khusan's Github Contributions"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XusanDev07&theme=radical"/>
 </a>
 <a href="https://github.com/XusanDev07">
   <img src="https://streak-stats.demolab.com/?user=XusanDev07&theme=radical&border=7F3FBF" alt="Khusan's GitHub streak"/>
