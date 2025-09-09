@@ -16,6 +16,8 @@
 - 😄 Pronouns: His/him
 - ⚡ Fun fact: I believe powerful ideas often start with simple scripts!
 
+![Profile views](https://counter.kuber.studio/XudanDev07/hacker/count.svg)
+
 ### Technologies & Tools
 - - - -
 <p align="center">
