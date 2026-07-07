@@ -8,7 +8,7 @@
 I'm a backend-focused developer with experience in Python and Linux. I enjoy building scalable web services, automating workflows, and working with tools like FFmpeg and Elasticsearch.  
 Currently, I'm learning more about AI, large language models (LLMs), and distributed systems, and always strive to apply best practices for secure, high-performance applications.
 
-I've contributed to several projects, including [WorkXplorer](https://workxplorer.uz) and the [WorkXplorer](https://github.com/workXplorer) organization. I also have experience integrating payment systems and developing real-time data pipelines.
+I also have experience integrating payment systems and developing real-time data pipelines.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/xusan-xalilov/)!
 
@@ -49,4 +49,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/xusan-xal
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
 </div>
 
-</body>  
+</body> 
